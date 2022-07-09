@@ -1,0 +1,30 @@
+.left-box{
+    width: 50%;
+    
+    height: 100%;
+    
+    float: left;
+}
+.box{
+    width: 100%;
+    height: 100%;
+}
+.navi{
+    font-size: 30px;
+}
+.nong{
+   color:red;
+    margin-right: 100px;
+}
+.yi{
+    color:red;
+    margin-right: 100px;
+}
+.she{
+    color:red;
+    margin-right: 100px;
+}
+.jiao{
+    color:red;
+    margin-right: 100px;
+}

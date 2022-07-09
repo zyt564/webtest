@@ -1,0 +1,19 @@
+.box{
+    width: 100%;
+    height: 100%;
+}
+.left-box,.right-box{
+
+    width: 50%;
+    
+    height: 100%;
+    
+    float: left;
+    
+    }
+.photo{
+    margin-left: 250px;
+}
+.navi{
+    font-size: 30px;
+}
